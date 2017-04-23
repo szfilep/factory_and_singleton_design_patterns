@@ -1,0 +1,1 @@
+# factory_and_singleton_design_patterns
